@@ -64,6 +64,12 @@ const Landing: React.FC<Props> = ({ onNext }) => {
         <p className="mt-6 text-sm text-white/80">
           Let’s see how many hearts you can catch 😙
         </p>
+        <br />
+        <br />
+        <br />
+        <p className="mt-6 text-sm text-white/80">
+          And nothing happens on "L" click 🤪
+        </p>
       </div>
 
       {/* BOTTOM CTA */}
