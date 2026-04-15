@@ -5,6 +5,6 @@ export const messages = [
   },
   {
     title: "💜❤️ Kuch likha hain aapke liye ❤️💜",
-    en: "Abh aapke baare mein likhne baithe to puri zindagi nikal jaye ❤️💜💜❤️💜❤️💜. Ke raah dekhenge teri, 💜❤️💜❤️💜. Chahein zamane lag jaye, zamange lag jaye 💜❤️💜❤️💜❤️💜❤️. Ya toh tu aa jaye, Ya hum thikane lag jaye 💜❤️💜❤️💜❤️💜❤️",
+    en: "Abh aapke baare mein likhne baithe to puri zindagi nikal jaye ❤️💜💜❤️💜❤️💜. Toh arz kiya hain. Ki raah dekhenge teri, 💜❤️💜❤️💜. Chahein zamane lag jaye, zamange lag jaye, zamange lag jaye 💜❤️💜❤️💜❤️💜❤️. Ya toh tu aa jaye, Ya hum thikane lag jaye 💜❤️💜❤️💜❤️💜❤️",
   },
 ];
